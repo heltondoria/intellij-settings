@@ -6,8 +6,12 @@
           <option name="url" value="https://github.com/heltondoria/kotlin-koans.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/heltondoria/DemoApplication.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\helto\projetos\kotlin" />
+    <option name="cloneParentDir" value="C:\Users\helto\projetos\java" />
   </component>
 </application>
